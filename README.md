@@ -1,2 +1,7 @@
-# SQL-Portfolio
-Portfolio of SQL projects completed by me for self learning, and hobby purposes. Here I have used MySQL for data analysis.
+# Bank-Marketing
+
+This dataset is related with direct marketing campaigns of a Portuguese banking institution. 
+The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, 
+in order to access if the product (bank term deposit) would be (or not) subscribed.
+
+Several queries performed for analysis.
